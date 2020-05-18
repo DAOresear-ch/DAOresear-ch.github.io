@@ -1,2 +1,1 @@
-# DAOresear-ch
-
+# DAO Research
